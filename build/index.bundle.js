@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("h3");e.textContent="Basic Webpack Configuration!",document.querySelector("body").append(e)})();
